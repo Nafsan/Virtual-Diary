@@ -47,7 +47,7 @@
         android:layout_height="wrap_content"
         android:text="Login"
         android:layout_gravity="center_horizontal"
-        android:backgroundTint="#0f257c"
+        android:backgroundTint="#0b1954"
         android:textColor="#fafafa"
         />
 
