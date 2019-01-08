@@ -16,5 +16,6 @@ public class MainActivity extends Activity {
 
         editText1=findViewById(R.id.emailId);
         editText2=findViewById(R.id.passwordId);
+        button=findViewById(R.id.buttonId);
     }
 }
